@@ -103,3 +103,14 @@ pnpm build          # production build
 pnpm lint           # ESLint
 pnpm typecheck      # tsc --noEmit
 ```
+
+## Previews
+<p align="center">
+  <img src="public/screenshots/main_page.png" alt="Main Page">
+  <img src="public/screenshots/feed_page.png" alt="Feed Page">
+  <img src="public/screenshots/dashboard_page.png" alt="Dashboard Page">
+  <img src="public/screenshots/upload_page.png" alt="Upload Page">
+  <img src="public/screenshots/link_share_page.png" alt="Link Share Page">
+  <img src="public/screenshots/link_manager_page.png" alt="Link Manager Page">
+  <img src="public/screenshots/editor_page.png" alt="Editor Page">
+</p>
